@@ -1,0 +1,14 @@
+.container {
+  color: white;
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 46px;
+  text-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.container p {
+  font-size: 22px;
+  text-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
